@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "zwKQKD9a7rS/3wQAV5I3c81nFGg9S+9ECZsiQ+AUd8BqtMsnf1sDmvI+UKDqq1svNrKxYJfVe2+oMVPmb7sB8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Test22\\Test22\\Test22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\dotnetty.common\\0.7.2\\dotnetty.common.0.7.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\lucene.net\\3.0.3\\lucene.net.3.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\nettopologysuite\\2.4.0\\nettopologysuite.2.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\sharpziplib\\0.86.0\\sharpziplib.0.86.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
